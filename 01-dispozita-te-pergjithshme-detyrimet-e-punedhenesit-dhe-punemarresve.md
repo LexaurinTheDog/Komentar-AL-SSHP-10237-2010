@@ -520,7 +520,7 @@ Formulimi “duhet të kenë mundësinë” e ngarkon punëdhënësin me detyrim
 >
 > b) t’i kërkojë punëdhënësit marrjen e masave të nevojshme për shmangien e rrezikut;
 >
-> c) të informojë strukturën përgjegjëse për inspektimin e punës për vlerësimin për kushtet e sigurisë në punë, të jetë i pranishëm, si edhe të shprehë pikëpamjet e tij në aktinspektimet e mbajtura nga trupa inspektuese;
+> c) të informojë strukturën përgjegjëse për inspektimin e punës për vlerësimin për kushtet e sigurisë në punë, të jetë i pranishëm, si edhe të shprehë pikëpamjet e tij në akt-inspektimet e mbajtura nga trupa inspektuese;
 >
 > ç) të kërkojë informacion nga punëdhënësi dhe të marrë pjesë në hartimin e dokumentit të vlerësimit dhe parandalimit të rrezikut, si edhe në dokumente të tjera, që lidhen me sigurinë dhe shëndetin në punë.
 >
@@ -532,7 +532,7 @@ Formulimi “duhet të kenë mundësinë” e ngarkon punëdhënësin me detyrim
 
 *Shënim në tekstin zyrtar:* (Ndryshuar emërtim në shkronjën “c” të pikës 1 me ligjin nr. 161/2014, datë 4.12.2014; ndryshuar emërtim në shkronjën “c” të pikës 1 me ligjin nr. 99/2024, datë 12.9.2024)
 
-Neni 18 rregullon statusin e përfaqësuesit të punëmarrësve për sigurinë dhe shëndetin në punë. Pika 1 (e shënuar në tekstin zyrtar si “l.”) i jep atij katër të drejta: të vizitojë vendet e punës për të vlerësuar sigurinë (shkronja “a”); t’i kërkojë punëdhënësit marrjen e masave për shmangien e rrezikut (shkronja “b”); të informojë strukturën përgjegjëse për inspektimin e punës, të jetë i pranishëm dhe të shprehë pikëpamjet e tij në aktinspektimet e trupës inspektuese (shkronja “c”, me emërtim të ndryshuar sipas shënimit të QBZ); dhe të kërkojë informacion e të marrë pjesë në hartimin e dokumentit të vlerësimit dhe parandalimit të rrezikut dhe të dokumenteve të tjera (shkronja “ç”). Shkronja “c” është pasqyrim i detyrimit të punëdhënësit sipas nenit 11 pika 1 shkronja “f”, ndërsa shkronja “ç” lidhet me nenin 10 shkronja “b”.
+Neni 18 rregullon statusin e përfaqësuesit të punëmarrësve për sigurinë dhe shëndetin në punë. Pika 1 (e shënuar në tekstin zyrtar si “l.”) i jep atij katër të drejta: të vizitojë vendet e punës për të vlerësuar sigurinë (shkronja “a”); t’i kërkojë punëdhënësit marrjen e masave për shmangien e rrezikut (shkronja “b”); të informojë strukturën përgjegjëse për inspektimin e punës, të jetë i pranishëm dhe të shprehë pikëpamjet e tij në akt-inspektimet e trupës inspektuese (shkronja “c”, me emërtim të ndryshuar sipas shënimit të QBZ); dhe të kërkojë informacion e të marrë pjesë në hartimin e dokumentit të vlerësimit dhe parandalimit të rrezikut dhe të dokumenteve të tjera (shkronja “ç”). Shkronja “c” është pasqyrim i detyrimit të punëdhënësit sipas nenit 11 pika 1 shkronja “f”, ndërsa shkronja “ç” lidhet me nenin 10 shkronja “b”.
 
 Pika 2 përmban garancinë e mosdiskriminimit: përfaqësuesi nuk duhet të vihet në pozita të disfavorshme për shkak të veprimtarisë së tij “bazuar në këtë kre”. Referimi te “ky kre” duhet kuptuar si referim te kreu II, ku bën pjesë neni 18. Garancia është e ngjashme me atë të nenit 7 pika 2 shkronja “a” për punëmarrësin e ngarkuar me sigurinë.
 
